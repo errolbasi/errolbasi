@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on mobile application projects 
 - 🤔 I’m looking for help with my knowledge in databases
 - 💬 Ask me about android studio
-- 📫 How to reach me: johnerrolbasilio@gmail.com
+- 📫 How to reach me: johnerrolbasilio@gmail.com linkedIn: John Errol Basilio
 
