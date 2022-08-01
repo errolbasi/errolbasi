@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm John Errol Basilio I graduated Computer Science Course 
 
 
 
